@@ -1,0 +1,14 @@
+com\company\issuetracker\service\UserService.class
+com\company\issuetracker\controller\UserController.class
+com\company\issuetracker\dto\LoginRequest.class
+com\company\issuetracker\exception\GlobalExceptionHandler.class
+com\company\issuetracker\entity\User.class
+com\company\issuetracker\controller\AuthController.class
+com\company\issuetracker\config\SecurityConfig.class
+com\company\issuetracker\repository\UserRepository.class
+com\company\issuetracker\dto\UserRequestDto.class
+com\company\issuetracker\security\JwtUtil.class
+com\company\issuetracker\security\JwtFilter.class
+com\company\issuetracker\config\SecurityBeansConfig.class
+com\company\issuetracker\dto\UserRegisterRequest.class
+com\company\issuetracker\IssueTrackerApplication.class
