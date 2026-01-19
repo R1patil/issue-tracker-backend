@@ -237,8 +237,3 @@ http://localhost:8080
 **Rahul Patil**
 Backend Developer | Java | Spring Boot | Security
 
----
-
-## ⭐ Why This Project Matters (Interview Answer)
-
-> This project demonstrates real-world backend concepts like secure authentication, layered architecture, DTO usage, exception handling, and production-grade Git practices.
